@@ -1,0 +1,9 @@
+- provider_name: Matterport
+  provider_url: https://dwtwdesign.com/
+  endpoints:
+  - url: https://dwtwdesign.com/oembed/
+    discovery: true
+    example_urls:
+    ,.
+    formats:
+    - json
